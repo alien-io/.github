@@ -11,7 +11,7 @@ Replace complex blockchain addresses with **human-readable usernames** across al
 
 * 💬 **Universal Crypto Username** — One @username for all your wallets (ETH, SOL, POLY, XLM, etc.)
 * 🔗 **Cross-Chain Identity** — Manage multiple chain addresses under one profile
-* 🛡️ **Secure & Decentralized** — Fully on-chain on **Starknet**, no central servers
+* 🛡️ **Secure & Decentralized** — Fully on-chain on **Starknet**, no central servers, coming soon on stellar chain...
 * 🧩 **Developer Friendly** — Simple interface & SDK for easy integration
 * 🏦 **Exchange-Ready** — Supports memo/tag for CEX deposits
 * 🚫 **Error-Proof** — Say goodbye to long 0x… addresses and copy-paste mistakes
@@ -47,7 +47,7 @@ Replace complex blockchain addresses with **human-readable usernames** across al
 ### 🗺️ Roadmap
 
 * ✅ Phase 1: Starknet Testnet Deployment
-* 🔜 Phase 2: Multi-chain (EVM, Solana, Stellar)
+* 🔜 Phase 2: Multi-chain (EVM, Stellar)
 * 🔜 Phase 3: SDKs, Wallet Integrations, Ecosystem Expansion
 
 ---
