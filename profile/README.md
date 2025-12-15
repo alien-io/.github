@@ -25,33 +25,3 @@ Replace complex blockchain addresses with **human-readable usernames** across al
 * Copy-paste errors cause fund loss
 * No unified blockchain identity
 
----
-
-### ⚙️ How It Works
-
-1. **Register your @username**
-2. **Link wallets** from any blockchain
-3. **Receive payments** using just your username
-
----
-
-### 💡 Use Cases
-
-* **DeFi & DAO payments** — Pay contributors via @username
-* **Gaming rewards** — Reward @player123 instead of 0x…
-* **Tipping & donations** — /tip @creator 10 USDC
-* **Cross-chain transfers** — One name, all networks
-
----
-
-### 🗺️ Roadmap
-
-* ✅ Phase 1: Starknet Testnet Deployment
-* 🔜 Phase 2: Multi-chain (EVM, Stellar)
-* 🔜 Phase 3: SDKs, Wallet Integrations, Ecosystem Expansion
-
----
-
-**Making blockchain addresses human-readable, one username at a time.**
-
----
